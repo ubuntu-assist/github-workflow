@@ -1,4 +1,6 @@
 console.log('hello world')
 console.warn('this is a warning log')
+console.log('hello')
+console.warn('this is a warning')
 console.error('this is an error')
 console.info('this is some info')
